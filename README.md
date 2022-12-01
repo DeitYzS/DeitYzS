@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi! Hi! Hi!
+I'M Hi!
 
-![Most Used Languages](https://raw.githubusercontent.com/DeitYzS/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeitYzS&layout=compact)
+
+
+
 
