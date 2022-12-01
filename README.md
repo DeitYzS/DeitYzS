@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Most Used Languages](https://raw.githubusercontent.com/DeitYzS/github-stats-transparent/output/generated/languages.svg)
 
