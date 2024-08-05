@@ -1,6 +1,6 @@
 <h1 align='center'><span>:comet:</span> Hi - I'm Dusit Chunviset<span>:star:</span></h1> 
 
-<h3 align='center'> Software Engineering | CAMT CMU 🎲 [3rd years]</h3>
+<h3 align='center'> Software Engineering | CAMT CMU 🎲 [4th years]</h3>
 
 <ul>
   <li> Sleep 😴 </li> 
